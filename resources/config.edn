@@ -1,0 +1,4 @@
+{
+ :all-plugins-filepath "all-jenkins-plugins.txt"
+ :job-dump-dir "jenkinsBackup"
+}
